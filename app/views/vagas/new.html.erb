@@ -1,0 +1,9 @@
+<h1>Cadastre uma nova vaga!</h1>
+
+<%= form_for @vaga do |f| %>
+  <%= f.label :titulo, 'Título: ' %>
+  <%= f.text_field :titulo %><br>
+  <%= f.label :descricao, 'Descrição: ' %>
+  <%= f.text_field :descricao %><br>
+  <%= f.submit 'Criar vaga! :D' %>
+<% end %>
