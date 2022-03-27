@@ -56,11 +56,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-<<<<<<< HEAD
     addressable (2.8.0)
-=======
-    addressable (2.7.0)
->>>>>>> 187a339f1bfc28085692f725b587b756ab8d9b5d
       public_suffix (>= 2.0.2, < 5.0)
     bindex (0.8.1)
     bootsnap (1.7.5)
@@ -98,30 +94,17 @@ GEM
     marcel (1.0.1)
     method_source (1.0.0)
     mini_mime (1.1.0)
-<<<<<<< HEAD
-    mini_portile2 (2.5.1)
-    minitest (5.14.4)
-    msgpack (1.4.2)
-    nio4r (2.5.7)
-    nokogiri (1.11.3)
-      mini_portile2 (~> 2.5.0)
-=======
     mini_portile2 (2.8.0)
     minitest (5.14.4)
     msgpack (1.4.2)
     nio4r (2.5.7)
     nokogiri (1.13.3)
       mini_portile2 (~> 2.8.0)
->>>>>>> 187a339f1bfc28085692f725b587b756ab8d9b5d
       racc (~> 1.4)
     public_suffix (4.0.6)
     puma (4.3.8)
       nio4r (~> 2.0)
-<<<<<<< HEAD
-    racc (1.5.2)
-=======
     racc (1.6.0)
->>>>>>> 187a339f1bfc28085692f725b587b756ab8d9b5d
     rack (2.2.3)
     rack-proxy (0.6.5)
       rack
